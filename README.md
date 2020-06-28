@@ -78,6 +78,10 @@ The bot response with an investment recommendation based on the selected risk le
 #### Test the Robo Advisor
 
 
+<<<<<<< HEAD
 [![Robo Advisor test with Lambda](amazon-bot.gif)]
+=======
+[![Robo Advisor test with Lambda](Robo-BOT.mov)]
+>>>>>>> ee3c20419c5fc3f1131aee96f28f4959d98c1097
 
 
