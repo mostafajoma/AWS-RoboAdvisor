@@ -1,6 +1,5 @@
 ### Background
-
-I have created a Robo Advisor that could be used by clients or potential new cients to get investment protflio recommendations for retirement. Since machine learning and NLP are disrupting finance to improve customer experience. This would be a great way to reach and engage with young people.
+I have created a Robo Advisor that could be used by clients or potential new clients to get investment portfolio recommendations for retirement. Since machine learning and NLP are disrupting finance to improve customer experience. This would be a great way to reach and engage with young people.
 
 Steps to accomplish the project:
 
