@@ -1,5 +1,7 @@
 # Financial Robo-Advisor 
 ![robo](images/robo.jpg)
+
+
 ### Background
 
 Robo Advisor is an application that could be used by clients or potential new clients to get investment portfolio recommendations for retirement. Since machine learning and NLP are disrupting finance to improve customer experience. This would be a great way to reach and engage with young people.
