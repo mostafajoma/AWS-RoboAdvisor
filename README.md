@@ -25,6 +25,7 @@ Steps to accomplish the project:
 * **Sentiment analysis:** No
 * **COPPA**: No
 
+
 Created the `RecommendPortfolio` intent, and configured some sample utterances as follows:
 
 * I want to save money for my retirement
