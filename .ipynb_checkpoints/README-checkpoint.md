@@ -77,10 +77,10 @@ The bot response with an investment recommendation based on the selected risk le
 * **high:** "20% bonds (AGG), 80% equities (SPY)"
 * **very high:** "0% bonds (AGG), 100% equities (SPY)"
 
-#### Test the Robo Advisor
+# Test the Robo Advisor
 
 
-[![Robo Advisor test with Lambda](amazon-bot.gif)]
+![Robo Advisor test with Lambda](amazon-bot.gif)
 
 
 # Built With
